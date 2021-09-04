@@ -1,0 +1,92 @@
+<svg width=2000 height=2500>
+
+<polygon points="173 308 235 308 235 302 221 302 202 271 209 259 203 255 "/>
+
+<polygon points="243 308 305 308 275 256 269 259 276 271 257 302 243 302 "/>
+
+<polygon points="264 251 271 247 239 194 208 248 214 251 221 239 257 239 "/>
+
+<polygon points="271 233 288 263 305 233" fill="red"/>
+
+<polygon points="173 233 207 233 190 263" fill="red""/>
+
+<polygon points="220 317 258 317 239 348" fill="red""/>
+
+
+
+
+<path d="M 3 63 Q 37 87 33 98 M 33 98 z" stroke="orange" fill="transparent"/>
+
+<path d="M 33 98 Q 65 101 71 120 M 71 120 z" stroke="orange" fill="transparent"/>
+
+<path d="M 71 120 Q 90 122 119 142 M 119 142 z" stroke="orange" fill="transparent"/>
+
+<path d="M 119 142 Q 98 110 85 83 M 85 83 z" stroke="orange" fill="transparent"/>
+
+<path d="M 85 83 Q 52 79 3 63 M 3 63 z" stroke="orange" fill="transparent"/>
+
+<path d="M 33 98 Q 65 101 71 120 M 71 120 z" stroke="orange" fill="transparent"/>
+
+
+
+
+<path d="M 446 62 Q 413 88 417 99 M 417 99 z" stroke="gray" fill="transparent"/>
+
+<path d="M 417 99 Q 383 102 378 118 M 378 118 z" stroke="gray" fill="transparent"/>
+
+<path d="M 378 118 Q 357 125 330 142 M 330 142 z" stroke="gray" fill="transparent"/>
+
+<path d="M 330 142 Q 353 107 364 83 M 364 83 z" stroke="gray" fill="transparent"/>
+
+<path d="M 364 83 Q 404 78 446 62 M 446 62 z" stroke="gray" fill="transparent"/>
+
+
+
+
+
+<path d="M 90 314 Q 88 263 99 219 M 99 219 z" stroke="brown" fill="transparent"/>
+
+<polygon points="99 219 78 201 105 209 " fill="green"/>
+
+<path d="M 105 209 Q 107 203 110 197 M 110 197 z" stroke="brown" fill="transparent"/>
+
+<polygon points="110 197 85 170 117 188 " fill="green"/>
+
+<path d="M 117 188 Q 122 182 126 177 M 126 177 z" stroke="brown" fill="transparent"/>
+
+<polygon points="126 177 108 155 134 169 " fill="green"/>
+
+<path d="M 134 169 C 188 140 270 143 313 169 M 313 169 z" stroke="brown" fill="transparent"/>
+
+<polygon points="313 169 339 156 321 178 " fill="green"/>
+
+<path d="M 321 178 Q 325 182 328 187 M 328 187 z" stroke="brown" fill="transparent"/>
+
+<polygon points="328 187 362 171 337 198 " fill="green"/>
+
+<path d="M 337 198 Q 340 203 342 208 M 342 208 z" stroke="brown" fill="transparent"/>
+
+<polygon points="342 208 368 201 342 220 " fill="green"/>
+
+<path d="M 342 220 C 347 302 306 360 241 387 M 241 387 z" stroke="brown" fill="transparent"/>
+
+<path d="M 241 387 C 197 383 135 331 124 279 M 124 279 z" stroke="brown" fill="transparent"/>
+
+<path d="M 124 279 C 149 333 187 363 241 370 M 241 370 z" stroke="brown" fill="transparent"/>
+
+<path d="M 241 370 C 299 339 322 290 316 229 M 312 229 z" stroke="brown" fill="transparent"/>
+
+<path d="M 316 229 C 268 185 193 194 164 230 M 164 230 z" stroke="brown" fill="transparent"/>
+
+<path d="M 164 230 C 157 255 155 288 156 309 M 156 309 z" stroke="brown" fill="transparent"/>
+
+
+
+<polyline points="90 314 117 297 112 289 117 280 112 272 119 260 115 239 135 254 130 263 138 270 130 279 144 291 137 297 157 307 z" stroke="brown" fill="transparent"/>
+
+<circle cx="103" cy="254" r="7" stroke="black" fill="blue"/>
+
+
+</svg>
+
+
